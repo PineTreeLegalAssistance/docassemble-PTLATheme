@@ -84,7 +84,7 @@ code: |
 id: basic questions intro screen
 decoration: form-lineal
 question: |
-  ${interview_short_title}: File Legal Forms Online
+  ${interview_short_title}: Pine Tree Legal Forms Online
 subquestion: |
   % if form_approved_for_email_filing:
   This website can help you complete and file court forms in 3 steps:
@@ -105,7 +105,7 @@ subquestion: |
   on your own.
   % endif
   
-  This site is not a lawyer. If you would like a lawyer, find [your local
+  This site is not a lawyer. If you need legal help and your legal issue is in Maine, you can [contact Pine Tree Legal Assistance](https://ptla.org/contact-us) If you or your legal problem are outside of the state of Maine, find [your local
   legal aid provider](https://www.lsc.gov/what-legal-aid/find-legal-aid).
   
   Tap the {green words} on any screen for a definition or more information.
