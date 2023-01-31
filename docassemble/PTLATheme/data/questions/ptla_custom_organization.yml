@@ -72,8 +72,8 @@ comment: |
   features:
     bootstrap theme: my_theme.css
 ---
-features:
-  bootstrap theme: ptlatheme_bootstrap.min.css
+#features:
+#  bootstrap theme: ptlatheme_bootstrap.min.css
 ---
 ########################### GitHub Feedback ##############################
 ---
