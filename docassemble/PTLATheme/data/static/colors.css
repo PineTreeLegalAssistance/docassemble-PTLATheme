@@ -3,6 +3,11 @@
     background-color: #002e60 !important;    
 } */
 
+/* .bg-dark is the color used for the navbar. Replace with your theme color. */
+.bg-dark {
+    background-color: #024442 !important;    
+} 
+
 .al-logo img {
     max-height: 40px;
 }
